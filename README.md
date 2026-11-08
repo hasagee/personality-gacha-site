@@ -1,6 +1,6 @@
-# 16型人格扭蛋机 · 隐私与支持站点
+# 心图 - 十六人格图鉴 · 隐私与支持站点
 
-这是 iOS App「16型人格扭蛋机」的公开隐私政策与支持页面，托管于 GitHub Pages。
+这是 iOS App「心图 - 十六人格图鉴」的公开隐私政策与支持页面，托管于 GitHub Pages。
 
 - 首页：`https://hasagee.github.io/personality-gacha-site/`
 - 隐私政策：`https://hasagee.github.io/personality-gacha-site/privacy.html`
